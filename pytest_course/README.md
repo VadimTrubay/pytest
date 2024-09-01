@@ -1,2 +1,2 @@
-# pytest
+# pytest course
 study pytest
